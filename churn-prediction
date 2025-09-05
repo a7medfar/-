@@ -1,0 +1,6 @@
+churn-prediction/
+│── data/                # البيانات
+│── model/               # النماذج المحفوظة
+│── train_and_api.py     # الكود الأساسي (تدريب + API)
+│── requirements.txt     # المتطلبات
+│── README.md            # توثيق المشروع
