@@ -1,0 +1,10 @@
+mlflow
+xgboost
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+matplotlib
+nest_asyncio
+joblib
