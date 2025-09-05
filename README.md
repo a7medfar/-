@@ -13,11 +13,11 @@ customer-churn-prediction/
 │   ├── api.py            # واجهة API
 │   ├── monitoring.py     # نظام المراقبة
 │   └── utils.py          # أدوات مساعدة
-├── notebooks/            # دفاتر جupyter
+├── notebooks/            #  jupyterlab
 │   ├── exploration.ipynb      # استكشاف البيانات
 │   ├── model_training.ipynb   # تجريب النماذج
 │   └── evaluation.ipynb       # تقييم الأداء
-├── tests/               # الاختبارات
+├── tests/               # الاختبارات    
 │   ├── test_data.py    # اختبارات البيانات
 │   ├── test_model.py   # اختبارات النموذج
 │   └── test_api.py     # اختبارات API
